@@ -8,3 +8,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Arrizky Hasya Pratama, [Linkedin](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/)
